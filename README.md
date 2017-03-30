@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 28, 2017
 
 ### Student Name:  
-(First and Last Name)
+Veronica Petters
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduces the jQuery framework, which is a JavaScript library.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://veronicapetters.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The <script></script> allows you to reference the JavaScript inside the index.html file to link the two together. This is put before the </body> tag in the index.html.
+2. The fadeIn("") determines the speed at which the text shows up, you can either put fast or slow inside the quotes.
+3. The click(display) lets the h3 be invoked once clicked and that is what activates it.
